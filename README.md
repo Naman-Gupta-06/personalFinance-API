@@ -44,4 +44,4 @@ You should now be able to access the Expense Manager API on `http://localhost:30
 
 ## Conclusion
 
-The Expense Manager API provides a simple and convenient way to manage personal expenses. By integrating this API into a personal finance application, users can easily track their expenses and gain insight into their spending habits.
+The Personal Finance API provides a simple and convenient way to manage personal expenses. By integrating this API into a personal finance application, users can easily track their expenses and gain insight into their spending habits.
